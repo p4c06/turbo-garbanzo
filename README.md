@@ -1,2 +1,6 @@
 # turbo-garbanzo
-pisze nowego facebooka
+piszę nowego facebooka
+dla programistów bo bżedzie *działał*
+* tylko
+* tekstowo
+####Jej
